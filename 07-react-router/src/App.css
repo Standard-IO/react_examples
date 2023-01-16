@@ -1,0 +1,12 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* this is part of navbar focus */
+.is-active {
+  font-weight: bold;
+  color: yellow;
+}
